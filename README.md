@@ -1,10 +1,18 @@
 # Knowledge Graphs + LLMs
 
+
+
+## **Background**
+
 A collection of interesting links, articles, research papers and projects related to knowledge graphs, GenAI and LLMs (large language models)
 
-Eric Blue -  http://eric-blue.com
+I’ve been fascinated with the concept of “connected knowledge” and knowledge representation for quite some time.  When blogging was still a major trend, I wrote extensively about mind mapping and it’s still a significant part of my personal and business workflow today.  
 
-Updated: 7/2/2024
+In the mid-late 2000s, I developed a keen interest in personal knowledge management. Inspired by the work of Gordon Bell (https://en.wikipedia.org/wiki/Gordon_Bell), I created my own Personal Memex project using Semantic Mediawiki (RDF, SPARQL, etc.) to store and visualize knowledge and data (https://eric-blue.com/my-projects/personal-memex/).
+
+Fast forward to the last 18-24 months, and I’ve immersed myself in the GenAI space and large language models (LLMs). A couple of months ago, I posted about the National Security Hackathon in San Francisco (May - 2024), where we leveraged graph databases and large language models for knowledge extraction and modeling. Since then, partly due to the influence of social media algorithms and general momentum in this space, I’ve noticed a surge in activity. Although I’ve been aware of graph databases for some time and have experimented with them over the years, my interest has been reignited given their potential when coupled with GPT.
+
+With that in mind, I wanted to share a collection of interesting links, articles, research papers, and projects related to knowledge graphs, GenAI, and LLMs. This list is not exhaustive and reflects the activity I’ve noted since May. However, I plan to continually update it. If anyone has recommendations for interesting projects, research, or key players in this space, please let me know—I’d love to include them in this list.
 
 # **Books**
 
